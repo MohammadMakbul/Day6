@@ -1,0 +1,17 @@
+.body{
+background-color: aqua;
+text-align: center;
+
+}
+.div-container {
+    background-color: aliceblue;
+    margin: 100px 150px 100px 150px;
+}
+.text-area {
+    border-radius: 5px;
+}
+.submit-button {
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+}
